@@ -1,5 +1,5 @@
 # magento-catalog-autolistmode
-Auto List Moode
+Auto List Mode
 ================
 This simple magento extension change view mode from "grid" to "list" whenever there are less products than columns .
 
